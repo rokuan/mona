@@ -1,0 +1,14 @@
+﻿<Window x:Class="Mona.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Mona" Height="50" Width="200">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <TextBox AcceptsReturn="False" Name="word" Grid.Column="0" Grid.Row="0" Margin="2,2" Padding="5" />
+    </Grid>
+</Window>

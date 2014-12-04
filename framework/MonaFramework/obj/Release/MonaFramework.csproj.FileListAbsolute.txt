@@ -1,0 +1,10 @@
+C:\Users\Lebeau Lucie\AppData\Local\Temporary Projects\MonaFramework\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Lebeau Lucie\documents\visual studio 2010\Projects\MonaFramework\MonaFramework\bin\Release\MonaFramework.dll
+C:\Users\Lebeau Lucie\documents\visual studio 2010\Projects\MonaFramework\MonaFramework\bin\Release\MonaFramework.pdb
+C:\Users\Lebeau Lucie\documents\visual studio 2010\Projects\MonaFramework\MonaFramework\obj\Release\MonaFramework.dll
+C:\Users\Lebeau Lucie\documents\visual studio 2010\Projects\MonaFramework\MonaFramework\obj\Release\MonaFramework.pdb
+C:\Users\Lebeau Lucie\documents\visual studio 2010\Projects\MonaFramework\MonaFramework\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lebeau Lucie\documents\visual studio 2010\Projects\MonaFramework\MonaFramework\obj\Release\MonaFramework_MarkupCompile.cache
+C:\Users\Lebeau Lucie\documents\visual studio 2010\Projects\MonaFramework\MonaFramework\obj\Release\MonaFramework_MarkupCompile.lref
+C:\Users\Lebeau Lucie\documents\visual studio 2010\Projects\MonaFramework\MonaFramework\obj\Release\Themes\Generic.baml
+C:\Users\Lebeau Lucie\documents\visual studio 2010\Projects\MonaFramework\MonaFramework\obj\Release\MonaFramework.g.resources

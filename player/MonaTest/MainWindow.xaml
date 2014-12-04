@@ -1,0 +1,22 @@
+﻿<mona:MonaWindow x:Class="MonaTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mona="clr-namespace:MonaFramework.Controls;assembly=MonaFramework"
+        Title="MainWindow" Height="350" Width="525">
+    <mona:MonaGrid Name="grid">
+        <mona:MonaGrid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </mona:MonaGrid.ColumnDefinitions>
+        <mona:MonaGrid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="50" />
+        </mona:MonaGrid.RowDefinitions>
+        
+        <MediaElement LoadedBehavior="Manual" Name="player" mona:MonaGrid.Column="0" mona:MonaGrid.Row="0" mona:MonaGrid.ColumnSpan="3" />
+        <mona:MonaButton Alias="Play" Name="play" mona:MonaGrid.Column="0" mona:MonaGrid.Row="1" Content="Play" Click="playMedia" />
+        <mona:MonaButton Alias="Pause" Name="pause" mona:MonaGrid.Column="1" mona:MonaGrid.Row="1" Content="Pause" Click="pauseMedia" />
+        <mona:MonaButton Alias="Stop" Name="stop" mona:MonaGrid.Column="2" mona:MonaGrid.Row="1" Content="Stop" Click="stopMedia" />
+    </mona:MonaGrid>
+</mona:MonaWindow>
